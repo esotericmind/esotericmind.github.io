@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://esotericmind.github.io
+title: esoteric mind
+tagline: Writing to find myself.
+description: Test
+paginate: 5
